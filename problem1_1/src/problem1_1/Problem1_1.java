@@ -37,5 +37,4 @@ public class Problem1_1 {
         }
         System.out.println(res);
     }
-    
 }
